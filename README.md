@@ -1,4 +1,3 @@
-ssSome ++
 # public-repo
 
 Test
